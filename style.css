@@ -1,0 +1,33 @@
+html {
+  background-color: darkgoldenrod;
+}
+
+body {
+  background-color: antiquewhite;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 90px;
+  border-radius: 100px;
+}
+
+h1 {
+  color: firebrick;
+}
+
+h1,
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: crimson;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
